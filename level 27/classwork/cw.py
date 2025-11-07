@@ -61,7 +61,7 @@ name.insert(2, "vani")
 
 # dv 5
 surname = input("enter your surname: ")
-if surname[0].capitalize:
+if surname.capitalize:
     print("Helo")
 else:
     print("Bye")
@@ -81,7 +81,7 @@ else:
 
 # dv 7
 surname = input("entery your surname")
-type = input("enter if you want upper lower or capital size")
+type = input("enter if you want upper lower or capitalize")
 if type == "upper":
     print(surname.upper())
 elif type == "lower":
@@ -103,5 +103,3 @@ for i in numbers:
         print(i, "luwia") 
     else:
         print(i, "kentia") 
-
-
