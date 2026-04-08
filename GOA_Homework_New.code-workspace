@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "GOA_Homework_New",
+			"path": "."
+		},
+		{
+			"path": "../bento-grid-main (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GOA_Homework_New"
+	}
+}
